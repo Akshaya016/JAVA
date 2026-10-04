@@ -1,4 +1,4 @@
-package phase3;
+3package phase3;
 
 public class CountOccurence {
 
